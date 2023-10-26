@@ -1,0 +1,12 @@
+version: '3'
+services:
+  node-shell:
+    image: node:latest
+    container_name: node-shell-container
+    volumes:
+      - .:/usr/src
+    working_dir: /usr/src
+    tty: true
+    stdin_open: true
+    ports:
+      - "3000:3000"
