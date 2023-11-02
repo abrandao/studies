@@ -75,4 +75,4 @@ function elaborarResultado(contador100, contador50, contador10, contador5, conta
     return resultado
 }
 
-console.log(sacarDinheiro(153));
+console.log(sacarDinheiro(387));
