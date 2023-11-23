@@ -1,0 +1,13 @@
+p {
+  background-color: #aaa;
+}
+.observacao {
+  background-color: #5F5!important;
+  border: dashed 5px;
+  padding: 200px;
+  font-size: 40px;
+}
+p.observacao {
+  padding: 2px; /* Especificidade maior que a regra da classe .obervacao */
+  background: linear-gradient(to right, red, yellow);
+}
