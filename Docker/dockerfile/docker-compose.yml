@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  cloud9:
+    image: linuxserver/cloud9
+    volumes:
+      - .:/workspace
+    ports:
+      - "8181:8181"
