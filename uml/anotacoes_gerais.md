@@ -1,0 +1,2 @@
+- O modelo de domínio tem níveis de abstração.
+- Do diagrama de classes é do nível conceitual.
