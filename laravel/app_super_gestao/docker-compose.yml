@@ -6,7 +6,7 @@ services:
             args:
                 WWWGROUP: '${WWWGROUP}'
         image: sail-8.2/app
-        container_name: Laravel
+        container_name: laravel
         extra_hosts:
             - 'host.docker.internal:host-gateway'
         ports:

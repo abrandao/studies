@@ -1,0 +1,30 @@
+services:
+  mysql:
+    image: 'mysql/mysql-server:8.0'
+    container_name: mysql-container
+    ports:
+      - '${FORWARD_DB_PORT:-3306}:3306'
+    environment:
+        MYSQL_ROOT_PASSWORD: 123456
+        MYSQL_ROOT_HOST: '%'
+        MYSQL_DATABASE: bancodedados
+        MYSQL_USER: sail
+        MYSQL_PASSWORD: password
+        MYSQL_ALLOW_EMPTY_PASSWORD: 1
+  web:
+    build:
+      context: app
+      target: builder
+    ports: 
+      - '80:80'
+    volumes:
+      - ./app:/var/www/html/
+    depends_on:
+        - mysql
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+    depends_on:
+        - mysql

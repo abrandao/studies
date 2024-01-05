@@ -15,6 +15,9 @@ useradd -s /bin/bash -m vscode
 groupadd docker
 usermod -aG docker vscode
 EOF
+
+RUN docker-php-ext-install mysqli pdo pdo_mysql && docker-php-ext-enable pdo_mysql
+
 # install Docker tools (cli, buildx, compose)
 COPY --from=gloursdocker/docker / /
 

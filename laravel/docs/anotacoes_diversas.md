@@ -11,5 +11,4 @@ Para broadcasting
 Rotas personalizadas
 
 Os controladores são classes, nomeados pelo padrão CamelCase.
-
-laravel até 32
+Blade é um motor de renderização de views.
