@@ -1,3 +1,6 @@
+## Se tornar 'dono' do arquivo - Comando do Linux
+sudo chown -R $USER:$USER .
+
 ## Verificação para ver se uma determinada extensão está habilitada
 var_dump(extension_loaded('pdo_mysql'));
 
@@ -43,3 +46,10 @@ docker exec laravel php artisan migrate:refresh
 
 ## Recria o banco de dados dropando todas as tabelas e executa o migrate
 docker exec laravel php artisan migrate:fresh
+
+## Rodar os seeders
+docker exec laravel php artisan db:seed
+docker exec laravel php artisan db:seed --class=SiteContatoSeeder
+
+## Criação de Factory
+docker exec laravel php artisan make:factory SiteContatoFactory --model=SiteContato
