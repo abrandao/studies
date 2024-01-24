@@ -12,4 +12,8 @@ class Fornecedor extends Model
     use SoftDeletes;
     protected $table = 'fornecedores'; // Para encontrar a tabela correta no banco de dados
     protected $fillable = ['nome', 'site', 'uf', 'email'];
+
+    public function produtos() {
+        return $this->hasMany('App\Models\Item', 'fornecedor_id', 'id');
+    }
 }
