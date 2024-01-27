@@ -16,6 +16,9 @@ php artisan up
 ## Criação de Controller
 docker exec laravel php artisan make:controller <nome_do_controller>
 
+## Criação de Controller com resources (CRUD)
+docker exec laravel php artisan make:controller <nome_do_controller> --resource
+
 ## Criação de Model
 docker exec laravel php artisan make:model <nome_da_model>
 
