@@ -4,35 +4,37 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="./vue.js"></script>
-  <title>Document</title>
-  <style>
-    .verde {
-      background-color: green;
-    }
-    .azul {
-      background-color: blue;
-    }
-  </style>
+  <title>Vue.js</title>
 </head>
 <body>
   <div id="app">
-    <input type="text" @keyup="imprimirTexto('Enviando parâmetro', 5)">
-    <button @click="mensagemAlerta()">Botão</button>
+    <span>Paciente: </span><input type="text" v-model="paciente">
+    <br>
+    <ul>
+      <li v-for="p in lista">{{ p.nome }}, {{ p.idade }}</li>
+    </ul>
   </div>
   <script>
     const vm = new Vue({
       el: '#app',
       data: {
-       xyz: true
+        paciente: '',
+        pacientes: [
+          { nome: 'Jorge Santana', idade: 32 },
+          { nome: 'João Santos', idade: 45 },
+          { nome: 'José Augusto', idade: 18 },
+          { nome: 'Júnior Silva', idade: 20 },
+          { nome: 'Júlio Nogueira', idade: 50 },
+          { nome: 'Anderson Brandão', idade: 41 }
+        ],
+        lista: []
       },
-      methods: {
-        imprimirTexto(t, n) {
-          console.log(t)
-          console.log(n)
-          console.log(this.xyz)
-        },
-        mensagemAlerta() {
-          alert('Mensagem de alerta')
+      methods: {},
+      computed: {},
+      watch: {
+        paciente(valor) {
+          console.log(valor)
+          this.lista = this.pacientes.filter(p => p.nome.match(valor))
         }
       }
     })
