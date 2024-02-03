@@ -56,3 +56,6 @@ docker exec laravel php artisan db:seed --class=SiteContatoSeeder
 
 ## Criação de Factory
 docker exec laravel php artisan make:factory SiteContatoFactory --model=SiteContato
+
+## Criação do link storage para public
+docker exec laravel php artisan storage:link
