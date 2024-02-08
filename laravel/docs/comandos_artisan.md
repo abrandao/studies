@@ -59,3 +59,6 @@ docker exec laravel php artisan make:factory SiteContatoFactory --model=SiteCont
 
 ## Criação do link storage para public
 docker exec laravel php artisan storage:link
+
+## Instalação de pacotes
+docker exec laravel php artisan composer require <nome_do_pacote>
