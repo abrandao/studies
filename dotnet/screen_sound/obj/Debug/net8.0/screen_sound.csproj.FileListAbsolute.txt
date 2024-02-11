@@ -1,0 +1,15 @@
+/home/triumph/Trabalho/studies/dotnet/screen_sound/bin/Debug/net8.0/screen_sound
+/home/triumph/Trabalho/studies/dotnet/screen_sound/bin/Debug/net8.0/screen_sound.deps.json
+/home/triumph/Trabalho/studies/dotnet/screen_sound/bin/Debug/net8.0/screen_sound.runtimeconfig.json
+/home/triumph/Trabalho/studies/dotnet/screen_sound/bin/Debug/net8.0/screen_sound.dll
+/home/triumph/Trabalho/studies/dotnet/screen_sound/bin/Debug/net8.0/screen_sound.pdb
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.GeneratedMSBuildEditorConfig.editorconfig
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.AssemblyInfoInputs.cache
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.AssemblyInfo.cs
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.csproj.CoreCompileInputs.cache
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.sourcelink.json
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.dll
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/refint/screen_sound.dll
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.pdb
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/screen_sound.genruntimeconfig.cache
+/home/triumph/Trabalho/studies/dotnet/screen_sound/obj/Debug/net8.0/ref/screen_sound.dll
