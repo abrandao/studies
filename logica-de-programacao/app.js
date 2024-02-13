@@ -1,16 +1,18 @@
-alert('Boas vindas ao jogo do número secreto!');
-let numeroSecreto = 5;
-console.log(numeroSecreto);
 let chute;
 let tentativas = 1;
+let numeroMaximo = 10;
+let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
+
+alert('Boas vindas ao jogo do número secreto!');
 
 // Enquanto chute não for igual ao número secreto
 while (chute != numeroSecreto) {
-  chute = prompt('Escolha um número entre 1 e 10');
+  chute = prompt(`Escolha um número entre 1 e ${numeroMaximo}.`);
   
   // Se chute for igual ao número secreto
   if (chute == numeroSecreto) {
-    alert(`Isso aí! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas.`);
+    break;
+    
   } else {
     if (chute > numeroSecreto) {
       alert(`O número secreto é menor que ${chute}`);
@@ -20,3 +22,6 @@ while (chute != numeroSecreto) {
     tentativas++;
   }
 }
+
+let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa' 
+alert(`Isso aí! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`);

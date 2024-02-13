@@ -1,0 +1,15 @@
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/bin/Debug/net8.0/ScreenTest
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/bin/Debug/net8.0/ScreenTest.deps.json
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/bin/Debug/net8.0/ScreenTest.runtimeconfig.json
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/bin/Debug/net8.0/ScreenTest.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/bin/Debug/net8.0/ScreenTest.pdb
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.AssemblyInfoInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.AssemblyInfo.cs
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.csproj.CoreCompileInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.sourcelink.json
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/refint/ScreenTest.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.pdb
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ScreenTest.genruntimeconfig.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenTest/obj/Debug/net8.0/ref/ScreenTest.dll

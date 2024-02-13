@@ -1,0 +1,12 @@
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/bin/Debug/net8.0/ScreenSound.deps.json
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/bin/Debug/net8.0/ScreenSound.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/bin/Debug/net8.0/ScreenSound.pdb
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfoInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfo.cs
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.sourcelink.json
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/refint/ScreenSound.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ScreenSound.pdb
+/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/Debug/net8.0/ref/ScreenSound.dll

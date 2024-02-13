@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/triumph/Trabalho/studies/dotnet/console_example/dotnet.csproj": {}
+    "/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/ScreenSound.csproj": {}
   },
   "projects": {
-    "/home/triumph/Trabalho/studies/dotnet/console_example/dotnet.csproj": {
+    "/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/triumph/Trabalho/studies/dotnet/console_example/dotnet.csproj",
-        "projectName": "dotnet",
-        "projectPath": "/home/triumph/Trabalho/studies/dotnet/console_example/dotnet.csproj",
+        "projectUniqueName": "/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/ScreenSound.csproj",
+        "projectName": "ScreenSound",
+        "projectPath": "/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/ScreenSound.csproj",
         "packagesPath": "/home/triumph/.nuget/packages/",
-        "outputPath": "/home/triumph/Trabalho/studies/dotnet/console_example/obj/",
+        "outputPath": "/home/triumph/Trabalho/studies/dotnet/ScreenSound/ScreenSound/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/triumph/.nuget/NuGet/NuGet.Config"
