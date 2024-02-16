@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea98c4d05860ed5c8da210a6a4c1c85284c49968")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91d7c7da6577454d1c2dc1fa494ecca7bbe2bac6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
