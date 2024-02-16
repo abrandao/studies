@@ -13,6 +13,7 @@
       <Compile Remove="Episodio.cs" />
       <Compile Remove="Genero.cs" />
       <Compile Remove="Podcast.cs" />
+      <Compile Remove="Menus\MostrarBandasRegistradas.cs" />
     </ItemGroup>
 
 </Project>
