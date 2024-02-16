@@ -10,6 +10,9 @@
     <ItemGroup>
       <Compile Remove="Artista.cs" />
       <Compile Remove="Convidado.cs" />
+      <Compile Remove="Episodio.cs" />
+      <Compile Remove="Genero.cs" />
+      <Compile Remove="Podcast.cs" />
     </ItemGroup>
 
 </Project>
