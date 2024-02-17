@@ -25,4 +25,8 @@
       <None Remove="Menus\ClassTeste\**" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="OpenAI" Version="1.10.0" />
+    </ItemGroup>
+
 </Project>
