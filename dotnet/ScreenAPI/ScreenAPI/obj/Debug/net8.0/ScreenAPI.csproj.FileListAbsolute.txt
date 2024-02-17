@@ -1,0 +1,15 @@
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/bin/Debug/net8.0/ScreenAPI
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/bin/Debug/net8.0/ScreenAPI.deps.json
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/bin/Debug/net8.0/ScreenAPI.runtimeconfig.json
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/bin/Debug/net8.0/ScreenAPI.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/bin/Debug/net8.0/ScreenAPI.pdb
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.AssemblyInfoInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.AssemblyInfo.cs
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.csproj.CoreCompileInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.sourcelink.json
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/refint/ScreenAPI.dll
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.pdb
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ScreenAPI.genruntimeconfig.cache
+/home/triumph/Trabalho/studies/dotnet/ScreenAPI/ScreenAPI/obj/Debug/net8.0/ref/ScreenAPI.dll
