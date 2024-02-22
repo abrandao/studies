@@ -1,0 +1,15 @@
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/bin/Debug/net8.0/ByteBankIO
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/bin/Debug/net8.0/ByteBankIO.deps.json
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/bin/Debug/net8.0/ByteBankIO.runtimeconfig.json
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/bin/Debug/net8.0/ByteBankIO.dll
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/bin/Debug/net8.0/ByteBankIO.pdb
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.AssemblyInfoInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.AssemblyInfo.cs
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.csproj.CoreCompileInputs.cache
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.sourcelink.json
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.dll
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/refint/ByteBankIO.dll
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.pdb
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ByteBankIO.genruntimeconfig.cache
+/home/triumph/Trabalho/studies/dotnet/ByteBankIO/ByteBankIO/obj/Debug/net8.0/ref/ByteBankIO.dll

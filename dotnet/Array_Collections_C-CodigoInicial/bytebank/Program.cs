@@ -88,6 +88,9 @@ void TestaArrayDeContasCorrentes()
     listaDeContas.Adicionar(new ContaCorrente(874, "121212-E"));
     listaDeContas.Adicionar(new ContaCorrente(874, "121212-F"));
     listaDeContas.Adicionar(new ContaCorrente(874, "121212-G"));
+
+    var contaDoAnderson = new ContaCorrente(963, "123456-X");
+
 }
 
 TestaArrayDeContasCorrentes();
