@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ByteBankIO")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e1d7928fb87e107342a1544106c72ea90207054")]
-[assembly: System.Reflection.AssemblyProductAttribute("ByteBankIO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ByteBankIO")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestProject")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

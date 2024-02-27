@@ -1,0 +1,15 @@
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/bin/Debug/net8.0/TestProject
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/triumph/Trabalho/studies/dotnet/MicrosoftLearn/certificacao-freeCodeCamp/TestProject/obj/Debug/net8.0/ref/TestProject.dll
