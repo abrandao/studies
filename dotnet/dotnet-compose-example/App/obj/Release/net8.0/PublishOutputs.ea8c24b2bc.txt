@@ -1,0 +1,5 @@
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/publish/DotNet.Docker
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/publish/DotNet.Docker.dll
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/publish/DotNet.Docker.deps.json
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/publish/DotNet.Docker.runtimeconfig.json
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/publish/DotNet.Docker.pdb

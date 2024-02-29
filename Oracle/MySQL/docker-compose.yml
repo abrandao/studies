@@ -1,0 +1,31 @@
+services:
+    mysql:
+        image: 'mysql/mysql-server:8.0'
+        container_name: mysql
+        ports:
+            - '${FORWARD_DB_PORT:-3306}:3306'
+        environment:
+            MYSQL_ROOT_PASSWORD: 'password'
+            MYSQL_ROOT_HOST: '%'
+            MYSQL_DATABASE: 'oracle_example'
+            MYSQL_USER: 'oracle'
+            MYSQL_PASSWORD: 'password'
+            MYSQL_ALLOW_EMPTY_PASSWORD: 1
+        networks:
+            - sail
+    adminer:
+        image: adminer
+        container_name: adminer
+        environment:
+            ADMINER_DEFAULT_SERVER: mysql
+            ADMINER_DESIGN: flat
+        restart: always
+        ports:
+            - 8080:8080
+        networks:
+            - sail
+        depends_on:
+            - mysql
+networks:
+    sail:
+        driver: bridge

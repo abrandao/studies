@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ByteBankIO")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DotNet.Docker")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d735c890f48cdbb73cd0d4af4d97f20d86645a25")]
-[assembly: System.Reflection.AssemblyProductAttribute("ByteBankIO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ByteBankIO")]
+[assembly: System.Reflection.AssemblyProductAttribute("DotNet.Docker")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DotNet.Docker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

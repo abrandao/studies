@@ -1,0 +1,15 @@
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/DotNet.Docker
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/DotNet.Docker.deps.json
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/DotNet.Docker.runtimeconfig.json
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/DotNet.Docker.dll
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/bin/Release/net8.0/DotNet.Docker.pdb
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.AssemblyInfo.cs
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.sourcelink.json
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.dll
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/refint/DotNet.Docker.dll
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.pdb
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/DotNet.Docker.genruntimeconfig.cache
+/home/triumph/Trabalho/studies/dotnet/dotnet-compose-example/App/obj/Release/net8.0/ref/DotNet.Docker.dll
