@@ -1,9 +1,10 @@
 services:
   web:
+    container_name: meu_php
     build:
       context: app
       target: builder
     ports: 
       - '80:80'
     volumes:
-      - ./app:/var/www/html/
+      - ./app:/var/www/html/b
